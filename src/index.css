@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: mmuni;
+}
+
+/* Fonts */
+@font-face {
+  font-family: mmuni;
+  src: url('./assets/fonts/Tharlon-Regular.ttf');
+}
+
